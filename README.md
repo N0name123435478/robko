@@ -10,7 +10,7 @@ index.html
       <a class="link-header" href="index.html">Главная</a>
     </header>
     <main>
-      <h1>Леонов Лев</h1>
+      <h1>Мкртчян Ашот</h1>
       <ul>
         <li>люблю играть в волейбол </li>
         <li>занимаюсь созданием WEB-сайтов</li>
